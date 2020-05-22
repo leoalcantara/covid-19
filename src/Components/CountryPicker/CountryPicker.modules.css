@@ -1,8 +1,2 @@
-import React from 'react';
 
-export Default const Cards = () +> {
-  return (
-    <h1> Cards </h1>
-  )
-}
  
